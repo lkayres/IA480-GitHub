@@ -22,10 +22,10 @@ The key predictor features are:
 - Day type
 
 ## Data Cleaning
-Data cleaning was very limited, as the dataset was already well-structured and free of errors. When building the model, the variable **"sample size"** was removed, as it was not necessary for the machine learning model.
+Data cleaning was very limited, as the dataset was already well-structured and free of errors. When building the model, the variable **"sample size"** was removed as it was not necessary for the machine learning model.
 
 ## Train/Test Split
-The data was split into 80% for training and 20% for testing.
+The data was split into 80% for training and 20% for testing. All other features were the default recommendations provided.
 
 ## Model Performance
 The model performed very well with the following metrics:
